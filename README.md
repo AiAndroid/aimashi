@@ -7,3 +7,7 @@ DESC
 ======
 
 存放"爱码士"相关代码文档
+
+欢迎联系我们 <a href="mailto:liuhuadong7804@gmail.com">发送邮件</a>
+</br>
+微信订阅号：爱码士， 记住我们的LOGO

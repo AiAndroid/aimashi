@@ -10,4 +10,8 @@ DESC
 
 欢迎联系我们 <a href="mailto:liuhuadong7804@gmail.com">发送邮件</a>
 </br>
-微信订阅号：爱码士， 记住我们的LOGO
+微信订阅号：爱码士， 
+
+</br>
+
+记住我们的LOGO, A M S

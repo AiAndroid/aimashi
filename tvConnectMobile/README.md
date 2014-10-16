@@ -1,4 +1,4 @@
-#怎么在统一个局域网连接android设备和你家里的智能电视？
+#怎么在一个局域网连接android设备和你家里的智能电视？
 
 ##背景
 做了一个视频类的app， 可以同时在手机和电视端同时run， 想在手机端点击播放时，在电视直接播放出来。
@@ -49,6 +49,9 @@ UDPCommandProtocol.UDPComnnad uc = new UDPCommandProtocol.UDPComnnad();
 
 优化空间，重用连接的Socket。
 代码在一天之内写的，有点乱，谅解
+
+android API:(thanks田阳)
+http://developer.android.com/training/connect-devices-wirelessly/index.html
 
 ##献给 爱码士 = 热爱编写代码的男/女士
 欢迎联系我们 <a href="mailto:liuhuadong7804@gmail.com">发送邮件</a>
